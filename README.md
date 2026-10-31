@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Game Developer specializing in Unity & C# from Vietnam 🎮</h3>
 
 - 🔭 I’m currently working on **2D & 3D Unity Projects**
-- 💬 Ask me about **Unity, C#, .NET, Gameplay Systems & 2D Pixel Art**
+- 💬 Ask me about **Unity, C#, .NET, Gameplay Systems**
 - 📫 How to reach me **buiquochai0801@gmail.com**
 - ⚡ Fun fact **Coding games with Lofi music on a dual-monitor setup 🎧✨**
 
